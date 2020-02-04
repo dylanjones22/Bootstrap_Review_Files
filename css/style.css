@@ -32,19 +32,19 @@ body {
 }
 /*--- Landing Page --*/
 .home-inner {
-    background-image: url(img/computers.png);
+    background-image: url(../img/busch.jpg);
 }
 .caption {
     width: 100%;
     max-width: 100%;
-    position: absolute:
+    position: absolute;
     top: 38%;
     z-index: 1;
     color: white;
     text-transform: uppercase;
 }
 .caption h1 {
-    font-siize: 3.8rem;
+    font-size: 3.8rem;
     font-weight: 700;
     letter-spacing: .3rem;
     text-shadow: .1rem .1rem .8rem black;
@@ -53,7 +53,7 @@ body {
 .caption h3 {
     font-style: 2rem;
     text-shadow: .1rem .1rem .5rem black;
-    padding-bottoom: 1.6rem;
+    padding-bottom: 1.6rem;
 }
 .btn-lg {border-width: medium;
     border-radius: 0;
