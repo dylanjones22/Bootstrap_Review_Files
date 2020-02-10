@@ -84,13 +84,13 @@ body {
     padding: .6rem 1.2rem;
     margin: 1rem;
     color: white;
-    background-color: #1ebba3;
-    border-color: #1ebba3;
+    background-color: rgb(236, 115, 115);
+    border-color:  rgb(236, 115, 115);
 
 }
 .btn-secondary:hover {
-    background-color: #189582;
-    border-color:#189582;
+    background-color: red;
+    border-color: red;
 }
 
 /*--- Features Section --*/
@@ -109,11 +109,11 @@ h3.heading {
 .heading-underline {
     width: 3rem;
     height: .2rem;
-    background-color: #1ebba3;
+    background-color: rgb(236, 115, 115);
     margin: 0 auto 2rem;
 }
 .feature svg.svg-inline--fa {
-    color: #1ebba3;
+    color:  rgb(236, 115, 115);
 }
 .feature h3 {
     font-size: 1.3rem;
